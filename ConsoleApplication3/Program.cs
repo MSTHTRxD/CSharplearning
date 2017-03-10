@@ -17,7 +17,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
 
-
+            //this is my first program in c#
             string a, b, c;
             a = "hello";
 
